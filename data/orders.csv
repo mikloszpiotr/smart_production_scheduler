@@ -1,0 +1,4 @@
+order_id,product_type,quantity,priority
+1,A,100,1
+2,B,200,2
+3,A,150,1
